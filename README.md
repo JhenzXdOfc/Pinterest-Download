@@ -26,5 +26,5 @@ Tanpa ribet. Tanpa aplikasi tambahan. 💡
 ---
 
 ## 💡 Contoh Link Pinterest
-
+https://pinterest-download-hazel.vercel.app/
 
